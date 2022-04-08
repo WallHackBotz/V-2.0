@@ -1,5 +1,4 @@
-// Bismillahirrahmanirrahim
-// thank you to ALLAH Swt
+//「Tq To」
 // thank you to Nurutomo as wabot-aq
 // thank you to ariffb as stikerinbot
 // thank you to botstylee
@@ -12,14 +11,14 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://chat.whatsapp.com/LDLbTSvavg62nEVQH3xFTN'
-gc2 = 'https://chat.whatsapp.com/KsPXe06GnCNC4pg1BYf9wT'
-gc3 = 'https://chat.whatsapp.com/Fh0eaf7IuuG3i67wXRC1O8'
-global.linkGC = ['https://chat.whatsapp.com/KsPXe06GnCNC4pg1BYf9wT', 'https://chat.whatsapp.com/Fh0eaf7IuuG3i67wXRC1O8'] // ganti jadi group lu
-global.owner = ['62895328255152','6287876723133','6285236600390','6281285921254','6281932715031', '62895401928948','6285388958030','6289636126485',] // Put your number here //owner eval
-global.kontak = ['62895328255152','6281226675327',] //Ketika ada yang ngetik #owner
-global.mods = ['62881026342148','6285780689812',] // Want some help?
-global.prems = ['6281226675327'] // Premium user has unlimited limit
+gc1 = 'https://chat.whatsapp.com/LDLbTSvavg62nEVQH3xFTN' //ubah jadi grup lu
+gc2 = 'https://chat.whatsapp.com/KsPXe06GnCNC4pg1BYf9wT' //ubah jadi grup lu
+gc3 = 'https://chat.whatsapp.com/Fh0eaf7IuuG3i67wXRC1O8' //ubah jadi grup lu
+global.linkGC = ['https://chat.whatsapp.com/KsPXe06GnCNC4pg1BYf9wT',] // ganti jadi group lu
+global.owner = ['62895328255152',] // Put your number here //owner eval
+global.kontak = ['62895328255152',] //Ketika ada yang ngetik #owner
+global.mods = ['62881026342148',] // Want some help?
+global.prems = ['62895401928948'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -54,11 +53,11 @@ leyskey = 'dappakntlll'
 bearkey = 'buy'
 
 //xteam        MIMINETBOT
-namaig = 'https://instagram.com/drak_ipul123'
+namaig = 'Ga punya Ig' //ubah aja
 namagithub = 'GAK ADA :)'
-kasihcaption = `Nih kak`
-namakontak1 = 'Owner Utama'
-namakontak2 = 'Manusia'
+kasihcaption = `Nih Sayang`
+namakontak1 = 'Rrsszxx Official'
+namakontak2 = 'Rrsszxx bot'
 
 //kasihcaption = `Nih Kak`
 
@@ -67,10 +66,10 @@ global.packname = 'By Rrsszxx' // ganti aja
 global.author = 'Rrsszxx - Sama' // ganti aja
 
 //yyy
-bc = '𝗥𝗥𝗦𝗦𝗭𝗫𝗫 𝗕𝗢𝗧' //King Of Bear Broadcast
-footer = '\n© 𝗥𝗥𝗦𝗦𝗭𝗫𝗫 𝗕𝗢𝗧'
-namabot = '𝗥𝗥𝗦𝗦𝗭𝗫𝗫 𝗕𝗢𝗧'
-namalu = '𝗥𝗥𝗦𝗦𝗭𝗫𝗫'
+bc = 'Rrsszxx' //Rrsszxx Broadcast
+footer = '\n© Rrsszxx Official'
+namabot = 'Rrsszxx'
+namalu = 'Rrsszxx Official'
 
 
 // 
