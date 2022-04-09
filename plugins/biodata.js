@@ -44,9 +44,9 @@ let fkon = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ?
   conn.relayWAMessage(res)
 
 }
-handler.help = ['owner', 'creator']
+handler.help = ['infoowner', 'ownerinfo']
 handler.tags = ['info']
-handler.command = /^(owner|creator)$/i
+handler.command = /^(ownerinfo)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
