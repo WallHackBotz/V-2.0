@@ -4,12 +4,12 @@ let path = require('path')
 let fs = require('fs')
 let package = require('./package.json')
 const CFonts  = require('cfonts')
-CFonts.say('Rpg\nALAN BOT', {
+CFonts.say('Rpg\nRrsszxx BOT', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`'${package.name}' By @${package.author.name || package.author}\nWLAN BOT ver 1.5.0\nRecode By ALAN`, {
+CFonts.say(`'${package.name}' By @${package.author.name || package.author}\nRrsszxx BOT ver 1.5.0\nRecode By Rrsszxx Ofc`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']

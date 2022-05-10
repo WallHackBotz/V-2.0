@@ -6,6 +6,7 @@
 // thank you to benni ismael
 // thank you to zerochanBot
 // thank you to fernazer
+// thank you to Rrsszxx Chan
 // thank you to King Of Bear Official
 // thank you to MikeBot Dev Team
 // thank you to ALL Bot creator
@@ -53,7 +54,7 @@ leyskey = 'dappakntlll'
 bearkey = 'buy'
 
 //xteam        MIMINETBOT
-namaig = 'Ga punya Ig' //ubah aja
+namaig = 'rrsszxxofc' //ubah aja
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih Sayang`
 namakontak1 = 'Rrsszxx Official'
