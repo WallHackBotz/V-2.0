@@ -1,9 +1,7 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn, text }) => {
     if (!text) throw 'Cari apa?'
-    let res = await fetch(global.API('xteam', '/search/grupwa', {
-        q: text
-    }, 'APIKEY'))
+    let res = await fetch(global.API('https://api.xteam.xyz/search/grupwa?q=gabut&APIKEY=457e12ead9fff041')
     if (res.status !== 200) throw await res.text()
     let json = await res.json()
     if (!json.status) throw json
